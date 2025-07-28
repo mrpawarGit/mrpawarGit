@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mayur Ravindra Pawar</h1>
+<h1 align="center">Hi 👋, I'm Mayur Pawar</h1>
 <h3 align="center">A Passionate Full Stack Developer | React JS | Firebase | Node JS | Exprees | REST APIs</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrpawargit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
