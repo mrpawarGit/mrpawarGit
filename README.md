@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **JS, React, Node, REST API**
 
-- 📫 How to reach me **realmayurpawar@gmail.com**
+- 📫 How to reach me **mrpawar8891@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1FILdkucWiE_jEaAvmkt8NbaBU23FM5Et/view?usp=drive_link)
 
