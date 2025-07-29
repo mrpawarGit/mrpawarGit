@@ -60,6 +60,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Mayur%20Pawar-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+  <a href="mailto:mrpwar8891@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-mrpwar8891@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
   <a href="https://twitter.com/realmayurpawar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-@realmayurpawar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
