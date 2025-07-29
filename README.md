@@ -53,16 +53,6 @@
 
 ---
 
-## 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrpawarGit&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrpawarGit&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="left">
@@ -77,8 +67,16 @@
   <a href="https://www.hackerrank.com/realmayurpawar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HackerRank-MrPawar-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-
-  <a href="https://drive.google.com/file/d/1FILdkucWiE_jEaAvmkt8NbaBU23FM5Et/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Resume-Mayur%20Pawar-brightgreen?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
 </p>
+
+---
+
+## 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrpawarGit&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrpawarGit&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
