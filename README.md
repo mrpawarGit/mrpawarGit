@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mrpawar8891@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1jwpu4Tl4ZeY_-RE-4oWvrpkPXpLkjJm8/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GeKKqg0IdzrzJtWDzASxRaTp2Ld5xe--/view?usp=drive_link)
 
 ---
 
