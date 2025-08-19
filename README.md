@@ -6,9 +6,9 @@
 
 ---
 
-- 🔭 I’m currently working on **Hospital Management App | Youtube Video Downloader**
+- 🔭 I’m currently working on **RentConnect - Tenant-Landlord Communication Platform**
 
-- 🌱 I’m currently learning **React JS | Node JS | Next JS | Deployment | Advanced Firebase**
+- 🌱 I’m currently learning **React JS | Node JS | Express | Mongoose | API**
 
 - 👯 I’m looking to collaborate on **React + Express**
 
