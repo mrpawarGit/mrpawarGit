@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mrpawar8891@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tK728obQ1o8icmFCU2oqQ9xUTpXTKVdh/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12Kp69gjVwJunDSFCSHRbc-7mmFofXNAP/view?usp=drive_link)
   
 - 👨‍💻 LinkedIn Profile - [LinkedIn](https://www.linkedin.com/in/mayur-pawar-325735349/)
 
