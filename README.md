@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on **RentConnect - Tenant-Landlord Communication Platform**
+- 🔭 I’m currently working on **ChatBox - Real Time Communication Platform**
 
 - 🌱 I’m currently learning **React JS | Node JS | Express | Mongoose | API**
 
