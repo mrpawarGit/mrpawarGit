@@ -59,15 +59,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrpawarGit&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mrpawarGit&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
+  <!-- <br/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrpawarGit&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrpawarGit&theme=aura" alt="Repos Per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrpawarGit&theme=aura" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrpawarGit&theme=radical" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrpawarGit&theme=radical" alt="Most Commit Language" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpawarGit&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrpawarGit&theme=radical" alt="GitHub Streak" />
 </p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mrpawarGit&theme=radical" alt="codeaashu" />
+  </a> 
+</p>
+
 
 ---
 
