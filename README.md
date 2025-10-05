@@ -61,6 +61,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrpawarGit&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrpawarGit&theme=aura" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrpawarGit&theme=aura" alt="Most Commit Language" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpawarGit&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mrpawarGit&theme=radical" alt="GitHub Streak" />
