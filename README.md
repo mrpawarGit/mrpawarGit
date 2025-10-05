@@ -61,7 +61,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrpawarGit&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=mrpawarGit&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrpawarGit&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpawarGit&layout=compact&theme=radical" alt="Top Languages" />
 </p>
