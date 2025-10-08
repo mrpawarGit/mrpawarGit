@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayur Pawar</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer | React JS | Express | Node JS | Mongoose (MongoDB) | REST APIs</h3>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Passionate+about+building+modern+web+apps" alt="Typing Animation" />
 </p>
@@ -16,7 +14,7 @@
 - 👯 Open to collaborate on **React + Express Projects**  
 - 💬 Ask me about **JavaScript, React, Node.js, REST APIs**  
 - 👨‍💻 All my projects are available at [**GitHub → mrpawarGit**](https://github.com/mrpawarGit)  
-- 📄 Know about my experience: [**My Resume**](https://drive.google.com/file/d/12Kp69gjVwJunDSFCSHRbc-7mmFofXNAP/view?usp=drive_link)  
+- 📄 Know about my work: [**My Resume**](https://drive.google.com/file/d/12Kp69gjVwJunDSFCSHRbc-7mmFofXNAP/view)
 - 📫 Reach me at **mrpawar8891@gmail.com**  
 - 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/mayur-pawar-325735349/)  
 
