@@ -14,9 +14,9 @@
 - 👯 Open to collaborate on **React + Express Projects**  
 - 💬 Ask me about **JavaScript, React, Node.js, REST APIs**  
 - 👨‍💻 All my projects are available at [**GitHub → mrpawarGit**](https://github.com/mrpawarGit)  
-- 📄 Know about my work: [**My Resume**](https://drive.google.com/file/d/12Kp69gjVwJunDSFCSHRbc-7mmFofXNAP/view)
 - 📫 Reach me at **mrpawar8891@gmail.com**  
 - 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/mayur-pawar-325735349/)  
+- 📄 Know about my work [**My Resume**](https://drive.google.com/file/d/12Kp69gjVwJunDSFCSHRbc-7mmFofXNAP/view)
 
 ---
 
