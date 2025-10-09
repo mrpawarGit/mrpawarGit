@@ -12,11 +12,11 @@
 - 🔭 Currently working on ChatBox — a Real-Time Communication Platform  
 - 🌱 Learning **React JS | Node JS | Express | Mongoose | API Integration**  
 - 👯 Open to collaborate on **React + Express Projects**  
-- 💬 Ask me about **JavaScript, React, Node.js, REST APIs**  
+- 💬 Ask me about **JavaScript, React, Node.js, REST APIs**
+- 💻 Explore my [**Portfolio Website**](https://mayur-pawar.vercel.app/) to see my work and projects in action.
 - 👨‍💻 All my projects are available at [**GitHub → mrpawarGit**](https://github.com/mrpawarGit)  
 - 📫 Reach me at **mrpawar8891@gmail.com**  
 - 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/mayur-pawar-325735349/)  
-- 💻 Visit my [**Portfolio**](https://mayur-pawar.vercel.app/)
 - 📄 Know about me [**My Resume**](https://drive.google.com/file/d/1THH7ljNnptJE--dMAWJkQkm2JqTGwiKl/view)
 ---
 
