@@ -8,6 +8,9 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
 
 ### 🧠 About Me
+Aspiring Full Stack Developer with a B.E. in Computer Engineering, skilled in React.js, Node.js, JavaScript, and
+RESTful APIs. Strong in problem-solving and teamwork, with a focus on building scalable, user-friendly web
+applications using modern technologies and best practices
 
 - 🔭 Currently working on [**Collaborative Learning Management System**](https://github.com/mrpawarGit/Collaborative-Learning-Management-System-LMS-)  
 - 🌱 Learning **React JS | Node JS | Express | Mongoose | API Integration**  
