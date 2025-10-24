@@ -1,4 +1,4 @@
-<h1 align="center">Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mayur Pawar</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mayur Pawar</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer | React JS | Express | Node JS | Mongoose (MongoDB) | REST APIs</h3>
 
 <p align="center">
