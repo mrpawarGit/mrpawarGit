@@ -9,7 +9,6 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on [**FairShare-Backend**](https://github.com/mrpawarGit/FairShare-Backend)
 - 🌱 Learning **React JS | Node JS | Express | Mongoose | API Integration**  
 - 👯 Open to collaborate on **React + Express Projects**  
 - 💬 Ask me about **JavaScript, React, Node.js, REST APIs**
