@@ -94,7 +94,7 @@
 ---
 
 <p align="center">
-  ✨ Thanks for visiting my profile! Let's connect and build something amazing together 🚀
+  ✨ Thanks for visiting my profile! Let's connect and build something amazing together.
 </p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
