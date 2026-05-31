@@ -16,7 +16,7 @@
 - 👨‍💻 All my projects are available at [**GitHub → mrpawarGit**](https://github.com/mrpawarGit)  
 - 📫 Reach me at **mrpawar8891@gmail.com**  
 - 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/mayur-pawar-325735349/)  
-- 📄 Know about me [**My Resume**](https://drive.google.com/file/d/1T07xkTfoWscDiU5eyu_TVJCnEv-0kUZp/view?usp=drive_link)
+- 📄 Know about me [**My Resume**](https://drive.google.com/file/d/13TVs9RMr0BOivQ6aTnfcKI_qMOqVim1A/view?usp=sharing)
 ---
 
 ## 🚀 Languages and Tools
