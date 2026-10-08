@@ -28,6 +28,7 @@
 - ☁️ Exploring and working with **Azure cloud infrastructure & deployment**
 - 🌱 Continuously improving my skills across the **full stack**
 - 💻 Check out my [**Portfolio Website**](https://mayur-pawar.vercel.app/)
+- 📄 View my [**Resume**](https://drive.google.com/file/d/13TVs9RMr0BOivQ6aTnfcKI_qMOqVim1A/view?usp=drive_link)
 - 👨‍💻 Explore my [**GitHub**](https://github.com/mrpawarGit)
 - 📫 Reach me at **mrpawar8891@gmail.com**
 - 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/mayur-pawar-325735349/)
